@@ -17,7 +17,13 @@ export default class NavBarLink extends Vue {
 
 <style lang="scss" scoped>
 .nav-bar-link {
-  width: 100%;
   flex-grow: 1;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
 }
 </style>

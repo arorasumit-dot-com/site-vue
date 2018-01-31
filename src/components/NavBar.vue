@@ -5,7 +5,6 @@
     <NavBarLink class="experience" title="Experience" url="/#/experience"></NavBarLink>
     <NavBarLink class="spoken" title="Spoken" url="/#/spoken"></NavBarLink>
   </div>
-
 </template>
 
 <script lang="ts">
